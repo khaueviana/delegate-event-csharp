@@ -1,3 +1,3 @@
 # delegate-event-csharp
 
-Exemplo de Evento e Delegate com C#.NET
+Example Event and Delegate with C # .NET.
